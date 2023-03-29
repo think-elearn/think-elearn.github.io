@@ -30,7 +30,7 @@ twitter_username: THINKeLearn
 github_username:  dr-rompecabezas
 
 # Build settings
-remote_theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
