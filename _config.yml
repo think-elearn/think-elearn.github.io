@@ -21,9 +21,7 @@
 title: THINK eLearn
 email: info@thinkelearn.com
 description: >- # this means to ignore newlines until "baseurl:"
-  THINK eLearn was established in 2014. We are a team of 
-  highly qualified and experienced professionals who are 
-  passionate about education and technology.
+  We are passionate about education and technology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: THINKeLearn
