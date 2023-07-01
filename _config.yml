@@ -20,6 +20,7 @@
 
 title: THINK eLearn
 email: info@thinkelearn.com
+logo: /assets/images/logo.png
 description: >- # this means to ignore newlines until "baseurl:"
   We are passionate about education and technology.
 baseurl: "" # the subpath of your site, e.g. /blog
