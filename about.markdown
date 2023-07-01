@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-We are passionate about developing high-quality online learning experiences.
-
-### Tools
+We create high-quality online learning experiences with the following tools:
 
 * [Articulate 360](https://www.articulate.com/360/)
 * [Adobe Creative Cloud](https://www.adobe.com/ca/creativecloud.html)
@@ -17,3 +15,5 @@ We are passionate about developing high-quality online learning experiences.
 * [AWS S3](https://aws.amazon.com/s3/)
 * [SendGrid](https://sendgrid.com/)
 * [Trello](https://trello.com/)
+
+and many more...
