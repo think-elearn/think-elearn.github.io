@@ -1,5 +1,7 @@
 # THINK eLearn
 
+⚠️ Our website was transitioned to a Wagtail-powered CMS in July 2025. This code is no longer being maintained.
+
 This is the source code for THINK eLearn's website. It is built using [Jekyll](https://jekyllrb.com/), a static site generator.
 
 Build the site and make it available on a local server.
